@@ -1,0 +1,16 @@
+ Task. 
+ 1  create a new repository and add some textfiles and png-images ,scripted code by using git commands
+2 create a new repository and add some textiles and create any two branches ,add new file in it and merge the branches into master branch
+3 clone the repository  and  add new files init
+4 create a new freestyle job  print hello word and date and time
+5 create the pipeline  project clone the git repository
+6 create a new repository and  write  heloword java program  print the output in console out
+7 create a docker file and run the image and show the output in localhost sever 8080
+8 create a multiple container by using single image 
+9create a git repository on git simple java program
+Create adockerfile to containerise the application and configure the jerkin to clone the git repository ,build the java application using maven 
+Build and push the docker image to docker hub
+Deploy docker container using Jenkins
+
+10 create a git repository for the web application containerise the application and configure the jerkin to clone the git repository ,Build and push the docker image to docker hub
+Deploy docker container to a production environment using jenkins
